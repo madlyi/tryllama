@@ -1,0 +1,30 @@
+# Locale setting
+locale==0.0.2
+
+# Python dotenv
+python-dotenv==0.21.0
+
+# Langchain for OpenAI and Community
+langchain-openai==0.0.1
+langchain-community==0.0.1
+
+# Pinecone
+pinecone-client==2.0.0
+pinecone==2.1.1
+
+# Whisper for STT
+git+https://github.com/openai/whisper.git
+
+# PyPDF for PDF loading
+pypdf==3.2.0
+
+# TTS from Coqui
+git+https://github.com/coqui-ai/TTS
+TTS==0.10.2
+
+# Sounddevice and Scipy for audio recording
+sounddevice==0.4.2
+scipy==1.9.3
+
+# Other dependencies
+torch==1.12.1
